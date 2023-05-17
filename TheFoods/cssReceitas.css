@@ -1,0 +1,30 @@
+.botao{
+    background: rgb(189, 189, 189);
+    text-transform: uppercase;
+    border: #444;
+    border-radius: 2px;
+    position: relative;
+    transition: 0.5s;
+    padding: 5px 5px;
+    letter-spacing: 0.1em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.botao:hover{
+    letter-spacing: 0.25em;
+}
+.res{
+    width: 99%;
+   float: left;
+   margin: 5px;
+  
+}
+.fotores{
+float: left;  
+ 
+          
+}
+.infores{
+float: left;   
+}

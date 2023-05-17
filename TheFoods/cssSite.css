@@ -1,0 +1,88 @@
+.fpreto{
+    background-color:rgb(82, 81, 81);
+}
+.fcor{
+    background-color:rgb(190, 21, 21);
+}
+.botao{
+    background: rgb(189, 189, 189);
+    text-transform: uppercase;
+    border: #444;
+    border-radius: 2px;
+    position: relative;
+    transition: 0.5s;
+    padding: 5px 5px;
+    letter-spacing: 0.1em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.botao:hover{
+    letter-spacing: 0.25em;
+}
+
+h1{
+    text-transform: uppercase;
+}
+.encontre{
+    background: rgb(189, 189, 189);
+    text-transform: uppercase;
+    border: #444;
+    border-radius: 2px;
+}
+.barradenav{
+    text-transform: uppercase;
+    border: #444;
+    border-radius: 2px;
+    position: relative;
+    transition: 0.5s;
+    padding: 5px 15px;
+
+    
+}
+.barradenav:hover{
+    letter-spacing: 0.2em;
+}
+.textopagprincipal{
+    text-transform: uppercase;
+    filter: drop-shadow(0px 0px 5px #981d26)
+    drop-shadow(0 0px 10px #981d26)
+    drop-shadow(0 0px 20px #981d26);
+ 
+    
+}
+
+.posicao{
+    position: relative;
+}
+.child {
+
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.texto_index{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:xx-large;
+}
+.dir{
+    position: relative;
+    text-align: end;
+}
+.prod{
+            
+    border: 2px solid black;
+    border-radius: 3px;
+    max-width: 300px;
+   float: left;
+   margin: 5px;
+   height: 300px;
+}
+.textohist{
+    padding-left: 100px;
+    padding-right: 100px;
+}
